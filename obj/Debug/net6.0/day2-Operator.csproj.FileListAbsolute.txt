@@ -1,0 +1,15 @@
+C:\Users\birka\Desktop\patikaC#\day2-Operator\bin\Debug\net6.0\day2-Operator.exe
+C:\Users\birka\Desktop\patikaC#\day2-Operator\bin\Debug\net6.0\day2-Operator.deps.json
+C:\Users\birka\Desktop\patikaC#\day2-Operator\bin\Debug\net6.0\day2-Operator.runtimeconfig.json
+C:\Users\birka\Desktop\patikaC#\day2-Operator\bin\Debug\net6.0\day2-Operator.dll
+C:\Users\birka\Desktop\patikaC#\day2-Operator\bin\Debug\net6.0\day2-Operator.pdb
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\day2-Operator.csproj.AssemblyReference.cache
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\day2-Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\day2-Operator.AssemblyInfoInputs.cache
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\day2-Operator.AssemblyInfo.cs
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\day2-Operator.csproj.CoreCompileInputs.cache
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\day2-Operator.dll
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\refint\day2-Operator.dll
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\day2-Operator.pdb
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\day2-Operator.genruntimeconfig.cache
+C:\Users\birka\Desktop\patikaC#\day2-Operator\obj\Debug\net6.0\ref\day2-Operator.dll
